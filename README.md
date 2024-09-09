@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A.	PRAKTIKUM 1
 1.	Kita buat projek baru dengan mengetikkan perintah berikut pada terminal atau CMD composer create-laravel/laravel:^10.0 laravel-auth-app
  ![image](https://github.com/user-attachments/assets/3779beb6-5557-49e9-9d0f-30167811318a)
@@ -19,10 +20,6 @@ npm
 ![image](https://github.com/user-attachments/assets/f3f7bc80-fd51-42d7-872e-7407c1143fbf)
 
 
-
-
-
-
 6.	Selanjutnya jalankan perintah berikut
  ![image](https://github.com/user-attachments/assets/c9e0702c-bd7a-432f-949b-6b32e27564a5)
 
@@ -32,16 +29,6 @@ npm
  ![image](https://github.com/user-attachments/assets/8135a1bc-7612-4e20-9dbb-f262ea251fe5)
 
  ![image](https://github.com/user-attachments/assets/9397030b-ced4-443a-9e8d-84368c983502)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -83,3 +70,6 @@ Terakhir coba running dengan perintah php artisan serve
 ![image](https://github.com/user-attachments/assets/c520be95-b333-419a-b507-f20632bda3b7)
  
 
+=======
+
+>>>>>>> 2c27c51bacda4ce8be9b9b0ac4a53031d0595f1f

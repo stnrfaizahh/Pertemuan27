@@ -1,0 +1,3 @@
+[submodule "laravel-blogk"]
+	path = laravel-blogk
+	url = https://github.com/stnrfaizahh/laravel-blogk.git
